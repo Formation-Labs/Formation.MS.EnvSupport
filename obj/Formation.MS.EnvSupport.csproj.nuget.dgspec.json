@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\GIT\\GitHub\\Formation-Labs\\Formation.MS.EnvSupport\\Formation.MS.EnvSupport.csproj",
         "projectName": "Formation.MS.EnvSupport",
         "projectPath": "C:\\GIT\\GitHub\\Formation-Labs\\Formation.MS.EnvSupport\\Formation.MS.EnvSupport.csproj",
-        "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\GIT\\GitHub\\Formation-Labs\\Formation.MS.EnvSupport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Eli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

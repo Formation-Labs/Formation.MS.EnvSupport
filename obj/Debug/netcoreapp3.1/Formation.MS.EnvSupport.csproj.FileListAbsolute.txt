@@ -8,7 +8,6 @@ C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\bin\Debug\netcoreapp3.1\For
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\bin\Debug\netcoreapp3.1\Formation.MS.EnvSupport.dll
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\bin\Debug\netcoreapp3.1\Formation.MS.EnvSupport.pdb
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.csprojAssemblyReference.cache
-C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.csproj.CoreCompileInputs.cache
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.MvcApplicationPartsAssemblyInfo.cache
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.AssemblyInfoInputs.cache
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.AssemblyInfo.cs
@@ -17,5 +16,4 @@ C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\sta
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\staticwebassets\Formation.MS.EnvSupport.StaticWebAssets.xml
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.dll
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.pdb
-C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\obj\Debug\netcoreapp3.1\Formation.MS.EnvSupport.genruntimeconfig.cache
 C:\GIT\GitHub\Formation-Labs\Formation.MS.EnvSupport\bin\Debug\netcoreapp3.1\Resources\Environments.json
