@@ -1,0 +1,43 @@
+{
+    "Environments": [
+        {
+            "ID" : 1,
+            "Application" : "Editor",
+            "OperatingSystem" : "Windows",
+            "Browser" : "Chrome",
+            "BrowserVersion" : 83,
+            "WebServer" : "Nginx",
+            "WebServerVersion" : 1.161,
+            "WordPressVersion" : 5.4,
+            "PHPVersion" : 7.314,
+            "MySQlVersion" : 5.7,
+            "Enabled" : true
+        },
+        {
+            "ID" : 2,
+            "Application" : "Editor",
+            "OperatingSystem" : "Windows",
+            "Browser" : "Firefox",
+            "BrowserVersion" : 76,
+            "WebServer" : "Nginx",
+            "WebServerVersion" : 1.161,
+            "WordPressVersion" : 5.4,
+            "PHPVersion" : 7.314,
+            "MySQlVersion" : 5.7,
+            "Enabled" : true
+        },
+        {
+            "ID" : 3,
+            "Application" : "Editor",
+            "OperatingSystem" : "MacOS",
+            "Browser" : "Safari",
+            "BrowserVersion" : 13,
+            "WebServer" : "Nginx",
+            "WebServerVersion" : 1.161,
+            "WordPressVersion" : 5.4,
+            "PHPVersion" : 7.314,
+            "MySQlVersion" : 5.7,
+            "Enabled" : true
+        }
+    ]
+}
